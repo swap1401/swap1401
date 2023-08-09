@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com//swapnil68942022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="/swapnil68942022" height="30" width="40" /></a>
+<a href="https://twitter.com/@swapnil68942022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@swapnil68942022" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swapnil-soni-301902225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil-soni-301902225" height="30" width="40" /></a>
 <a href="https://fb.com/swapnil.soni.7965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swapnil.soni.7965" height="30" width="40" /></a>
 <a href="https://instagram.com/swapnilsoni__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swapnilsoni__" height="30" width="40" /></a>
