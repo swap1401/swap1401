@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swapnil Soni</h1>
 <h3 align="center">A passionate Coder from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swap1401" alt="swap1401" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://swap1401.github.io/My-Portfolio/](https://swap1401.github.io/My-Portfolio/)
 
 - 📫 How to reach me **swapnilsoni74@gmail.com**
